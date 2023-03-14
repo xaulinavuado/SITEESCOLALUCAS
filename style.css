@@ -1,4 +1,14 @@
 body {
     background-color: #250b2c;
-    color:rgb(149, 0, 179); 
+    color:#f0a3ff; 
+    display:flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 50%;
+}
+
+.cebecalho-lista-item{
+    
 }
